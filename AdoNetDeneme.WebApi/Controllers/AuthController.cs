@@ -21,7 +21,7 @@ namespace AdoNet.WebApi.Controllers
         {
             _authService = authService;
         }
-        
+        [AllowAnonymous]
         [HttpPost("register")]
         public IResponse Register(DtoUserForRegister register)
          {
