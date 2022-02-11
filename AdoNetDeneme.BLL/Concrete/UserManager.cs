@@ -23,7 +23,7 @@ namespace AdoNet.BLL.Concrete
         {
             try
             {
-                _userRepository.Add(user, "addNewUser");
+                _userRepository.Add(user, " addNewUser");
                 return new Response
                 {
                     Data = null,
