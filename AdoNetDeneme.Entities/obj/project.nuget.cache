@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3HsbgTIDLDSOS9c4IDsxF+lHkJ9BSHqmiQIjB3I6MRk2DhpFf4wgaCOs03cUfmtdd7U/7kn9g/PmkBhUSCGIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ugurc\\source\\repos\\AcibademFinalProject\\AdoNetDeneme.Entities\\AdoNet.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugurc\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
