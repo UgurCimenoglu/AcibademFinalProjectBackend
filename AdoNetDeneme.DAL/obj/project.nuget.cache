@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJta/rW4dLfmTMVf/8UcWBnPLgy92u2R5i1qzLSs/85h9CWhXPPbWv+SlTp99oMYxZF5RbnFMwAT66p3nFZy+Q==",
+  "dgSpecHash": "Uvvary7bin1C2FvnV11OCJUw6YlO9oDPK3IjyO34GK6iD6+JPoAlTizTYsk9Nn7bJJzi2G76koj1XZtXaGDtpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ugurc\\source\\repos\\AcibademFinalProject\\AdoNetDeneme.DAL\\AdoNet.DAL.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

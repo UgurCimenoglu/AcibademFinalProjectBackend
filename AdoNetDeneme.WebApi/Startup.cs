@@ -47,6 +47,8 @@ namespace AdoNet.WebApi
             #region DAL
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ISaleRepository, SaleRepository>();
+            services.AddScoped<IPolicyRepository, PolicyRepository>();
+            services.AddScoped<IInstallmentRepository, InstallmentRepository>();
             #endregion
 
             #region BLL
@@ -54,6 +56,8 @@ namespace AdoNet.WebApi
             services.AddScoped<IAuthService, AuthManager>();
             services.AddSingleton<IJWT, JWT>();
             services.AddScoped<ISaleService, SaleManager>();
+            services.AddScoped<IPolicyService, PolicyManager>();
+            services.AddScoped<IInstallmentService, InstallmentManager>();
             #endregion
 
             services.AddControllers();

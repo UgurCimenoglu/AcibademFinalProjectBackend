@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Text;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace AdoNet.DAL.Concrete.AdoNet.Repository
 {
@@ -15,6 +16,7 @@ namespace AdoNet.DAL.Concrete.AdoNet.Repository
     {
 
         SqlConnection _context;
+        private IServiceProvider serviceProvider;
         private readonly IConfiguration _configuration;
         public Repository(IConfiguration configuration)
         {

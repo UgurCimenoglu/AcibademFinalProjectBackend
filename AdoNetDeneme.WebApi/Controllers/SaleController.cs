@@ -13,7 +13,7 @@ namespace AdoNet.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class SaleController : ControllerBase
     {
         private readonly ISaleService _saleService;
@@ -29,7 +29,7 @@ namespace AdoNet.WebApi.Controllers
             return _saleService.GetSoldPoliciesByEmail(email);
         }
 
-        [HttpPost("GetAllSales")]
+        [HttpGet("GetAllSales")]
         public Response<List<DtoGetAllSoldPolicies>> GetAllSales()
         {
             return _saleService.GetAllSales();

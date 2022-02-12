@@ -13,7 +13,6 @@ namespace AdoNet.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class AuthController : ControllerBase
     {
         private readonly IAuthService _authService;
@@ -21,13 +20,13 @@ namespace AdoNet.WebApi.Controllers
         {
             _authService = authService;
         }
-        [AllowAnonymous]
+
         [HttpPost("register")]
         public IResponse Register(DtoUserForRegister register)
-         {
+        {
             return _authService.Register(register);
         }
-        [AllowAnonymous]
+
         [HttpPost("login")]
         public IResponse<DtoUserToken> Login(DtoUserLogin login)
         {

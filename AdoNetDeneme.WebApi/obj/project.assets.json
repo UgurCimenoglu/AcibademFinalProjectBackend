@@ -467,6 +467,7 @@
         "dependencies": {
           "AdoNet.Entities": "1.0.0",
           "Microsoft.Extensions.Configuration": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.2",
           "System.Data.SqlClient": "4.8.3"
         },
         "compile": {

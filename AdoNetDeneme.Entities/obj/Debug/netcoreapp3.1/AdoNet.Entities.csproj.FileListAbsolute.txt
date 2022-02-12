@@ -11,7 +11,6 @@ C:\Users\ugurc\source\repos\AdoNetDeneme.Entities\AdoNetDeneme.Entities\obj\Debu
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNet.Entities.deps.json
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNet.Entities.dll
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\bin\Debug\netcoreapp3.1\AdoNet.Entities.pdb
-C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.csprojAssemblyReference.cache
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.AssemblyInfoInputs.cache
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.AssemblyInfo.cs
