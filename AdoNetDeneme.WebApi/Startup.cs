@@ -46,12 +46,14 @@ namespace AdoNet.WebApi
 
             #region DAL
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ISaleRepository, SaleRepository>();
             #endregion
 
             #region BLL
             services.AddScoped<IUserService, UserManager>();
             services.AddScoped<IAuthService, AuthManager>();
             services.AddSingleton<IJWT, JWT>();
+            services.AddScoped<ISaleService, SaleManager>();
             #endregion
 
             services.AddControllers();
