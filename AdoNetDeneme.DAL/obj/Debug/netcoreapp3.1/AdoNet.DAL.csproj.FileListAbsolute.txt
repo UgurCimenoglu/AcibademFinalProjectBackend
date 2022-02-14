@@ -16,7 +16,6 @@ C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\bin\Debug\netc
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNet.DAL.pdb
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNet.Entities.dll
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\bin\Debug\netcoreapp3.1\AdoNet.Entities.pdb
-C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csprojAssemblyReference.cache
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.AssemblyInfoInputs.cache
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.AssemblyInfo.cs
@@ -24,3 +23,4 @@ C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netc
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csproj.CopyComplete
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.dll
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.pdb
+C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.DAL\obj\Debug\netcoreapp3.1\AdoNet.DAL.csproj.AssemblyReference.cache

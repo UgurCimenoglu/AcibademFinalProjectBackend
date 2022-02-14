@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93038c80-5913-4cbe-b0d1-846243636c1d": {
+      "ProjectGuid": "93038c80-5913-4cbe-b0d1-846243636c1d",
+      "DisplayName": "AdoNet.DAL",
+      "ColorIndex": 0
+    },
+    "5506dfd2-2473-42e5-8563-1e2692374087": {
+      "ProjectGuid": "5506dfd2-2473-42e5-8563-1e2692374087",
+      "DisplayName": "AdoNet.WebApi",
+      "ColorIndex": 1
+    },
+    "2e7fb531-8676-4066-9cf3-a36eaee7932a": {
+      "ProjectGuid": "2e7fb531-8676-4066-9cf3-a36eaee7932a",
+      "DisplayName": "AdoNet.BLL",
+      "ColorIndex": 2
+    },
+    "45173151-3008-4fcd-97fd-2f602cdff063": {
+      "ProjectGuid": "45173151-3008-4fcd-97fd-2f602cdff063",
+      "DisplayName": "AdoNet.Entities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
