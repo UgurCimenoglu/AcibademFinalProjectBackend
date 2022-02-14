@@ -22,7 +22,7 @@ namespace AdoNet.WebApi.Controllers
         {
             _policyService = policyService;
         }
-        [AllowAnonymous]
+
         [HttpGet("getall")]
         public Response<List<Policies>> GetAll()
         {

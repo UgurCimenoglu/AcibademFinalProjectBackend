@@ -1,4 +1,5 @@
 ﻿using AdoNet.Entities.Base;
+using AdoNet.Entities.Dtos;
 using AdoNet.Entities.Entites;
 using System;
 using System.Collections.Generic;
@@ -11,5 +12,6 @@ namespace AdoNet.BLL.Abstract
         bool userCheckEmail(string email);
         Response Add(User user);
         Response<User> GetByEmail(string email);
+        Response<DtoUser> GetByEmailForUser(string email);
     }
 }

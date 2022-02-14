@@ -12,6 +12,7 @@ namespace AdoNet.Entities.Mapper
         public MappingProfile()
         {
             CreateMap<User, DtoUserRegister>().ReverseMap();
+            CreateMap<User, DtoUser>().ReverseMap();
         }
     }
 }

@@ -8,6 +8,8 @@ using AdoNet.DAL.Abstract;
 using AdoNet.Entities.Entites;
 using System.Data.SqlClient;
 using AdoNet.Entities.Base;
+using AdoNet.Entities.Dtos;
+using AdoNet.BLL.Helper;
 
 namespace AdoNet.BLL.Concrete
 {
@@ -64,7 +66,30 @@ namespace AdoNet.BLL.Concrete
                     StatusCode = StatusCodes.Status406NotAcceptable
                 };
             }
-            
+
+        }
+
+        public Response<DtoUser> GetByEmailForUser(string email)
+        {
+            try
+            {
+                var result = _userRepository.GetByEmail(email, "GetUserByEmail");
+                return new Response<DtoUser>
+                {
+                    Data = ObjectMapper.Mapper.Map<DtoUser>(result),
+                    Message = "Success",
+                    StatusCode = StatusCodes.Status200OK
+                };
+            }
+            catch (Exception ex)
+            {
+                return new Response<DtoUser>
+                {
+                    Data = null,
+                    Message = $"Error: {ex.Message}",
+                    StatusCode = StatusCodes.Status406NotAcceptable
+                };
+            }
         }
 
         public bool userCheckEmail(string email)

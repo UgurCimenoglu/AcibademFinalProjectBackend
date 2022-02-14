@@ -17,3 +17,4 @@ C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.csproj.CoreCompileInputs.cache
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.dll
 C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.pdb
+C:\Users\ugurc\source\repos\AcibademFinalProject\AdoNetDeneme.Entities\obj\Debug\netcoreapp3.1\AdoNet.Entities.csprojAssemblyReference.cache

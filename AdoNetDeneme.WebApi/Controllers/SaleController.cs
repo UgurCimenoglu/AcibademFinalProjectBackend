@@ -23,7 +23,7 @@ namespace AdoNet.WebApi.Controllers
             _saleService = saleService;
         }
 
-        [HttpPost("getSoldPoliciesByEmail")]
+        [HttpGet("getSoldPoliciesByEmail")]
         public Response<List<DtoGetSoldPoliciesByEmail>> GetSoldPoliciesByEmail(string email)
         {
             return _saleService.GetSoldPoliciesByEmail(email);
